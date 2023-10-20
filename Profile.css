@@ -1,0 +1,38 @@
+/* Profile.css */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #eadede;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(60, 6, 6, 0.2);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMQk1-EheDWQsEIeQRIBF3xHXuEPgW2vKndt8pqbD0ZprdbhdkDNa1w8ypefJ22SHQ24&usqp=CAU);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #381010;
+  }
+  
+  img {
+    max-width: 200px; 
+    max-height: 200px; 
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+    margin: 10px 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #dc6b24;
+  }
